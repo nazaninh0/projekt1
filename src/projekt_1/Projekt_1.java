@@ -94,7 +94,8 @@ public class Projekt_1 {
                  break GAME;
               }
             }
-          /*System.out.println("!!!-----------------------------------!!!");
+          /* //funkade inte och hade inte tillräcklingt mycket tid att fundera på den :(
+            System.out.println("!!!-----------------------------------!!!");
           System.out.println("What would you like to do now");
           System.out.println("1.Continue playing \n 2: stop ");
           int svar= scan.nextInt(); 
